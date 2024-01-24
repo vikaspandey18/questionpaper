@@ -1,0 +1,17 @@
+export { default as Layout } from "./Layout";
+export { default as Home } from "./Home";
+export { default as ErrorPage } from "./ErrorPage";
+export { default as Contact } from "./Contact";
+export { default as Login } from "./Login";
+export { default as Register } from "./Register";
+export { default as CreateQuestionPaper } from "./CreateQuestionPaper";
+export { default as Subject } from "./Subject";
+export { default as AddSchool } from "./AddSchool";
+export { default as Profile } from "./Profile";
+export { default as AddStandard } from "./AddStandard";
+export { default as AddSubject } from "./AddSubject";
+export { default as AddChapter } from "./AddChapter";
+export { default as GenerateQuestion } from "./GenerateQuestion";
+export { default as QuestionView } from "./QuestionView";
+export { default as PreviewQuestion } from "./PreviewQuestion";
+export { default as Paper } from "./Paper";
